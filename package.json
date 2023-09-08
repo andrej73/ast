@@ -1,0 +1,32 @@
+{
+  "name": "iteria",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.15",
+    "@babel/parser": "^7.22.16",
+    "@babel/preset-env": "^7.22.15",
+    "@babel/preset-typescript": "^7.22.15",
+    "@babel/traverse": "^7.22.15",
+    "@types/react": "^18.2.21"
+  },
+  "dependencies": {
+    "@babel/generator": "^7.22.15",
+    "@types/react-dom": "^18.2.7",
+    "@typescript-eslint/typescript-estree": "^6.6.0",
+    "copy-dir": "^1.3.0",
+    "estraverse": "^5.3.0",
+    "glob": "^10.3.4",
+    "prettier": "^3.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "ts-morph": "^19.0.0"
+  }
+}
